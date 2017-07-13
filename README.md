@@ -26,7 +26,7 @@ bundle install
 
 ### 3. Execute
 ```
-ruby youtube-downloader.rb https://soundcloud.com/producer_i_love/likes
+ruby soundcloud-downloader.rb https://soundcloud.com/producer_i_love/likes
 ```
 
 
